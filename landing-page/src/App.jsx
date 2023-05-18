@@ -4,7 +4,7 @@ import Footer from './componentes/Footer'
 import Hero from './componentes/Hero'
 import Carrers from './componentes/OurCarrers'
 import Bosses from './componentes/Bosses'
-import NavBar from './componentes/navBar'
+import NavBar from './componentes/NavBar'
 
 function App() {
 
