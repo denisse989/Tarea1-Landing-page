@@ -4,7 +4,7 @@ import { bosses } from '../data/data';
 const Bosses=()=>{
     return(
         <>
-        <section className="section" id="tours">
+        <section className="section" id="Jefes">
       <Title title="Jefes de " subTitle="Carrera"></Title>
 
       <div className="section-center featured-center">

@@ -1,7 +1,7 @@
 const Hero=()=>{
     return(
         <>
-        <section className="hero" id="home">
+        <section className="hero" id="Inicio">
             <div className="hero-banner">
                 <h1>Escuela de Desarrollo Tecnológico e innovación</h1>
                 

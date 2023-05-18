@@ -4,7 +4,7 @@ import Carrer from './Carrer';
 const Carrers = () => {
   return (
     <>
-      <section className="section services" id="services">
+      <section className="section services" id="Carreras">
         <Title title='Nuestras ' subTitle='carreras'></Title>
         <div className="section-center services-center">
           {
