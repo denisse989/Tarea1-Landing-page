@@ -11,7 +11,7 @@ const Hero=()=>{
                 <p>
                     Facultad de Ingenierias y Arquitectura
                 </p>
-                <a href="#tours" className="btn hero-btn">Jefes de carrera</a>
+                <a href="#bosses" className="btn hero-btn">Jefes de carrera</a>
             </div>
         </section>
         </>
